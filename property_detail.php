@@ -256,6 +256,18 @@ include 'header.php';
 
                         <script>
                         <?php
+
+                           /*                     
+                            https://api.octopus.energy/v1/electricity-meter-points/{mpan}/meters/{serial_number}/consumption/
+
+                            The highligted Mpan ans serial number works 
+
+                            "mpan": "1413985791007"
+                                                "consumption_standard": 9803
+                            "serial_number": "16K0325724",
+                                "serial_number": "21J0016813"
+                                                               rate": "STANDARD",
+*/
                         // Read CSV for energy consumption
                         $csv_file = 'data/octopus-1413985791007-21J0016813.csv'; 
                         $daily_total = 0;
