@@ -1,1 +1,3 @@
-# Cheers_project
+# Cheers App
+ CHEERS APP
+ This project focuses on developing a comprehensive system to predict energy consumption, carbon emissions and energy costs for properties using postcode data. It integrates multiple external APIs, predictive modeling, and database management to provide actionable insights for users. The project effectively combines real-world data sources, machine learning models, and user-facing interfaces to create a comprehensive carbon emissions and energy cost prediction system. The system is modular and can be easily expanded to accommodate future data sources or machine learning improvements.
